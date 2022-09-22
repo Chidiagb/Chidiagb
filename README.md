@@ -1,6 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F769A8&width=435&lines=Hey!+I+am+Chidi.;Welcome+to+my+profile.)](https://git.io/typing-svg)
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
-
 
 ---
 #### Passionate about coding • Learning web development 
