@@ -3,8 +3,6 @@
 
 
 ---
-### Learner
----
 #### Passionate about coding • Learning web development 
 
 
